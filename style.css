@@ -1,0 +1,21 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(image/hinh-nen-may-tinh.jpg);
+}
+
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(image/hn.jpg);
+}
+
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(image/hinh-nen-dep-nhat-2018-41.jpg);
+}
+
+img {
+  height: 500px;
+}
